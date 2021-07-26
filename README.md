@@ -13,7 +13,7 @@ Link: https://joel-cos-1001.000webhostapp.com/assign3/index.php
 * Solidity (Ethereum)
 
 
-## Problems
+## Bugs
 * Transactions are generally slow as the free version of Infura limits performance
 * Requires refresh on to view transaction ID
 * If multiple transactions are done too quickly, there will be some errors
