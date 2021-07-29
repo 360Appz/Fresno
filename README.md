@@ -4,7 +4,7 @@
 This is a blockchain-based bicyle rental app
 
 ## Demo
-Link: https://joel-cos-1001.000webhostapp.com/assign3/index.php (*Youtube)
+Link: https://www.youtube.com/watch?v=lF-mXqDJea8
 
 
 ## Technologies Used:
@@ -14,10 +14,10 @@ Link: https://joel-cos-1001.000webhostapp.com/assign3/index.php (*Youtube)
 
 
 ## Bugs
-* Transactions are generally slow as the free version of Infura limits performance
+* Transactions and mining are slower as the free version of Infura limits performance
 * Requires refresh on to view transaction ID
 * If multiple transactions are done too quickly, there will be some errors
-* Adaptive view has some render issues in the Rent page
+* Adaptive view currently works for Home Page only
 
 
 ## Technical Information
