@@ -8,7 +8,7 @@ contract FresCoin {
         connection = 0;
     }
     
-    //Gets the balance of coins
+    //Counts the connection time
     function getConnection() view public returns(int)
     {
         return connection;
