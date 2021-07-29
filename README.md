@@ -25,7 +25,7 @@ Link: https://www.youtube.com/watch?v=lF-mXqDJea8
 * Flutter SDK: >=2.7.0 <3.0.0
 * Remix IDE (Solidity)
 * Metamask ( To get the test Ether coins)
-* Infura (Acts as the test Ethereum network between the front-end & backend code, mining is also completed here)
+* Infura (Acts as the test Ethereum network between the front-end & backend code, mining is also done here)
 
 ### References
 * https://www.youtube.com/watch?v=33kyEzDMTZU&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ&index=2 (UI , Navigation)
