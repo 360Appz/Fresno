@@ -17,7 +17,7 @@ class NavigationDrawer extends StatelessWidget {
         children: <Widget>[
           NavigationDrawerHeader(),
           DrawerItem('Home' , Icons.home, HomeRoute),
-          DrawerItem('Rent', Icons.help, RentRoute),
+          DrawerItem('Rent', Icons.electric_bike, RentRoute),
         ],
       ),
     );

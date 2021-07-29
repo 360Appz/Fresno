@@ -32,7 +32,6 @@ dependencies:
   responsive_builder: ^0.3.0
   get_it: ^5.0.6
   web3dart: ^1.1.1
-  velocity_x: ^0.4.1
   http: ^0.12.2
   rflutter_alert: ^1.1.0
 
