@@ -31,3 +31,4 @@ Link: https://www.youtube.com/watch?v=lF-mXqDJea8
 * https://www.youtube.com/watch?v=33kyEzDMTZU&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ&index=2 (UI , Navigation)
 * https://www.youtube.com/watch?v=7yFKO8HCtgg&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ&index=4 (UI Alert)
 * https://www.youtube.com/watch?v=3Eeh3pJ6PeA&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ&index=3 (Blockchain integration)
+* Bicycle images & logo (Google Images)
