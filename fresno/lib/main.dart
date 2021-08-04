@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
 //Gets deployed contract and returns it
   Future<DeployedContract> loadContract() async {
     String abi = await rootBundle.loadString("assets/Blockchain/abi.json");
-    String contractAddress = "0xc4b536E9988eC38aF06925A2977E649C9aC318c2";
+    String contractAddress = "0xc4b536E9988eC38aF06925A2977E649C9aC318c2"; //Address changes when contract is modified & redoployed
 
     final contract = DeployedContract(ContractAbi.fromJson(abi, "FresCoin "),
         EthereumAddress.fromHex(contractAddress));
@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
   //Submit/send function
   Future<String> submit(String functionName, List<dynamic> args) async {
     EthPrivateKey credentials = EthPrivateKey.fromHex(
-        "c3be0f5ec9557df8b8bacf107c44d8e9ddc278c5d75729507d4a5226fff92a69");
+        "c3be0f5ec9557df8b8bacf107c44d8e9ddc278c5d75729507d4a5226fff92a69"); //Metamask private key, have to replace with own Metamask private key
 
     DeployedContract contract = await loadContract();
     final ethFunction = contract.function(functionName);
